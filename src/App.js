@@ -1,18 +1,12 @@
-import React, { useEffect, useState } from "react";
-import "./App.css";
-import questions from "./questions";
-import Result from "./components/Result";
-import QuestionBox from "./components/QuestionBox";
-
-
-
+import React from 'react'
+import Quiz from './components/Quiz'
+import "./App.css"
 function App() {
-
   return (
-    <div>
-      
-    </div>
-  );
+    <>
+      <Quiz/>
+    </>
+  )
 }
 
-export default App;
+export default App
