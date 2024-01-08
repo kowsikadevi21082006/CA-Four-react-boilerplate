@@ -76,7 +76,7 @@ body{
 }
 
 .checked{
-  background-color: rgb(179, 83, 179);
+  background-color: #001e4d;
   color:white;
   box-shadow: 3px 3px 4px 1px rgb(78, 69, 78);
 }
@@ -87,8 +87,8 @@ body{
 #next-button{
   padding:10px;
   border:none;
-  background-color: purple;
-  background-color: #276272;
+  background-color: #001e4d;
+  background-color: #fd0280;
   color:white;
   border-radius: 5px;
   box-shadow: 3px 3px 2px 1px rgb(127, 109, 109);
