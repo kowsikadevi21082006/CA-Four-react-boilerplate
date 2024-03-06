@@ -6,7 +6,7 @@
 ### Part 1:
 You are asked to create a quiz app using functional components (have to use `hooks` for state-management).
 There are few functionalities - that you need to achieve ->
-
+dede
 1. An option through which one can toggle between `dark` and `light` mode.
 2. Once you answer a particular question -> you should be able to move to the next question automatically - until you reach the last question. (You cannot attempt a question twice -> so no need for a functionality which can lead you back to the previous question.)
 3. Once you answer the final question -> a result screen should pop-up --> displaying your result.
